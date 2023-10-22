@@ -1,0 +1,22 @@
+[
+  {
+    "titulo": "Crear un poema",
+    "descripcion": "Escribe un poema sobre un tema libre. El poema debe tener al menos 10 versos."
+  },
+  {
+    "titulo": "Crear un código",
+    "descripcion": "Escribe un código en cualquier lenguaje de programación. El código debe realizar una tarea simple, como imprimir un mensaje en la pantalla."
+  },
+  {
+    "titulo": "Crear un guion",
+    "descripcion": "Escribe un guion para una escena corta. La escena debe tener al menos dos personajes y un conflicto."
+  },
+  {
+    "titulo": "Crear una historia",
+    "descripcion": "Escribe una historia sobre un tema libre. La historia debe tener al menos 500 palabras."
+  },
+  {
+    "titulo": "Crear una canción",
+    "descripcion": "Escribe una canción sobre un tema libre. La canción debe tener al menos una estrofa y un estribillo."
+  }
+]

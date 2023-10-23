@@ -1,5 +1,4 @@
-{
-  "ythacks": [
+[
     {
       "titulo": "HOOK",
       "prompt": "Un hook efectivo."
@@ -29,4 +28,4 @@
       "prompt": "Para llamar la atención"
     }
   ]
-}
+

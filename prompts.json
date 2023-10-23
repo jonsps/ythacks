@@ -2,31 +2,31 @@
   "ythacks": [
     {
       "titulo": "HOOK",
-      "prompt": "Un hook efectivo.",
+      "prompt": "Un hook efectivo."
     },
     {
       "titulo": "TITULOS",
-      "prompt": "Necesito generar un titulo",
+      "prompt": "Necesito generar un titulo"
     },
     {
       "titulo": "ETIQUETAS",
-      "prompt": "Dame las 50 palabras ",
+      "prompt": "Dame las 50 palabras "
     },
     {
       "titulo": "RESUMEN",
-      "prompt": "Eres un experto en SEO para google ",
+      "prompt": "Eres un experto en SEO para google "
     },
     {
       "titulo": "MEJORAR SCRIPT",
-      "prompt": "Eres un copywriter profesional, ",
+      "prompt": "Eres un copywriter profesional, "
     },
     {
       "titulo": "CURIOSITY GAP",
-      "prompt": "En copywriting se ",
+      "prompt": "En copywriting se "
     },
     {
       "titulo": "EMPUJE/JALE",
-      "prompt": "Para llamar la atención",
+      "prompt": "Para llamar la atención"
     }
   ]
 }

@@ -1,19 +1,32 @@
 {
-  "usuarios": [
+  "ythacks": [
     {
-      "nombre": "Juan Pérez",
-      "edad": 30,
-      "correo": "juan.perez@example.com"
+      "titulo": "HOOK",
+      "prompt": "Un hook efectivo para un guión de YouTube es fundamental para captar la atención de los espectadores desde el principio y motivarlos a seguir viendo. Aquí te menciono las cosas más importantes a considerar para crear un buen hook: \n\nImpacto inicial: Empieza con algo sorprendente, intrigante o impactante que despierte la curiosidad del espectador de inmediato.\n\nRelevancia: Asegúrate de que el hook esté directamente relacionado con el tema o contenido principal del video para garantizar el interés del espectador. \n\nPreguntas intrigantes: Formula preguntas interesantes o plantéales un problema que resuene con la audiencia y les haga querer conocer la respuesta. \n\nBrevedad y concisión: Mantén el hook corto y directo al punto, evitando detalles innecesarios que puedan diluir la atención del espectador. \n\nEmoción y entusiasmo: Infunde emoción y entusiasmo en tu voz y lenguaje corporal para transmitir energía y conectar emocionalmente con la audiencia. \n\nIntriga o misterio: Crea un elemento de intriga o misterio que incite a la audiencia a continuar viendo para descubrir más detalles. \n\nRelevancia personal: Relaciona el contenido con la experiencia personal o emociones, conectando con la audiencia a un nivel más íntimo. \n\nAtractivo visual: Combina elementos visuales atractivos, como imágenes o clips, que complementen la intriga o la emoción que estás transmitiendo verbalmente. \n\nUso de estadísticas o datos impactantes: Si es relevante, puedes incluir datos o estadísticas impactantes que llamen la atención y respalden tu premisa. \n\nLlamada a la acción: Invita a los espectadores a hacer algo, como suscribirse, dar like o dejar un comentario, para fomentar la interacción y el compromiso. \n\nSiguiendo estas caracteristicas, ayudame a crear uno para el siguiente guión:",
     },
     {
-      "nombre": "María López",
-      "edad": 25,
-      "correo": "maria.lopez@example.com"
+      "titulo": "TITULOS",
+      "prompt": "Necesito generar un titulo ganador para mi video de YouTube, a continuación te doy detalles sobre el mismo. \n\nDeseo que el titulo sea formativo e intrigante, haz que las palabras más importantes estén en mayusculas, incluye emojis que tengan que ver con el titulo. Dame 30 opciones para elegir",
     },
     {
-      "nombre": "Pedro González",
-      "edad": 40,
-      "correo": "pedro.gonzalez@example.com"
-    }
+      "titulo": "ETIQUETAS",
+      "prompt": "Dame las 50 palabras clave mas importantes, usa comas al final de cada palabra clave, usa solo minusculas, no hagas una lista, usa formato de texto simple",
+    },
+    {
+      "titulo": "RESUMEN",
+      "prompt": "Eres un experto en SEO para google y youtube. Eres un especialista en palabras clave, copywriter y un youtuber galardonado con más de 10 años de experiencia. Tu tarea será hacer un resumen del script de tu video de youtube, harás un resumen largo de 500 a 1500 palabras en el que incluirás palabras clave, este resumen lo usarás en la descripción de tu video en youtube.",
+    },
+    {
+      "titulo": "MEJORAR SCRIPT",
+      "prompt": "Eres un copywriter profesional, crea un esquema de guión de video muy detallado para un video de aproximadamente 10 minutos de duración. En el esquema, asegúrese de incluir el tono de la música que se debe utilizar y sugerencias de fotografías y videos de archivo. Para cada sección, incluya la duración objetivo de esa sección en minutos o segundos. Al finalizar, Tu deberás expandir la información de cada sección del esquema para darme un guión completo de este tema. \n\ncrea el contenido en base al siguiente texto",
+    },
+    {
+      "titulo": "CURIOSITY GAP",
+      "prompt": "En copywriting se puede crear una brecha de curiosidad mediante el uso de titulares, líneas de asunto, textos de correos electrónicos, páginas de destino o cualquier otro tipo de contenido que tenga como objetivo atraer e involucrar al lector. Algunas de las formas de crear una brecha de curiosidad son: * Presentar algo nuevo o sorprendente que desafíe los conocimientos o expectativas existentes del lector. * Comenzar una historia, hacer una pausa en un momento culminante y retrasar la conclusión. * Retener información clave durante un período corto de tiempo (pero no demasiado, ya que puede frustrar al lector) Introducir una idea, acción o concepto y conectarlo con un resultado o tema inesperado. \n\nCrea un curiosity gap en base al siguiente texto:.",
+    },
+    {
+      "titulo": "RESUMEN",
+      "prompt": "Eres un experto en SEO para google y youtube. Eres un especialista en palabras clave, copywriter y un youtuber galardonado con más de 10 años de experiencia. Tu tarea será hacer un resumen del script de tu video de youtube, harás un resumen largo de 500 a 1500 palabras en el que incluirás palabras clave, este resumen lo usarás en la descripción de tu video en youtube.",
+    },
   ]
 }

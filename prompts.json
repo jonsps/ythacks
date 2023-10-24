@@ -1,31 +1,26 @@
 [
     {
-      "titulo": "HOOK",
-      "prompt": "Un hook efectivo."
-    },
-    {
       "titulo": "TITULOS",
-      "prompt": "Necesito generar un titulo"
+      "prompt": "Necesito generar un titulo ganador para mi video de YouTube, a continuación te doy detalles sobre el mismo. \n\nDeseo que el titulo sea formativo e intrigante, haz que las palabras más importantes estén en mayusculas, incluye emojis que tengan que ver con el titulo. Dame 30 opciones para elegir"
     },
     {
       "titulo": "ETIQUETAS",
-      "prompt": "Dame las 50 palabras "
+      "prompt": "dame las 50 palabras clave mas importantes, usa comas al final de cada palabra clave, usa solo minusculas, no hagas una lista, usa formato de texto simple"
     },
     {
       "titulo": "RESUMEN",
-      "prompt": "Eres un experto en SEO para google "
+      "prompt": "Eres un experto en SEO para google y youtube. Eres un especialista en palabras clave, copywriter y un youtuber galardonado con más de 10 años de experiencia. Tu tarea será hacer un resumen del script de tu video de youtube, harás un resumen largo de 500 a 1500 palabras en el que incluirás palabras clave, este resumen lo usarás en la descripción de tu video en youtube."
     },
     {
       "titulo": "MEJORAR SCRIPT",
-      "prompt": "Eres un copywriter profesional, "
+      "prompt": "Eres un copywriter profesional, crea un esquema de guión de video muy detallado para un video de aproximadamente 10 minutos de duración. En el esquema, asegúrese de incluir el tono de la música que se debe utilizar y sugerencias de fotografías y videos de archivo. Para cada sección, incluya la duración objetivo de esa sección en minutos o segundos. Al finalizar, Tu deberás expandir la información de cada sección del esquema para darme un guión completo de este tema. \n\nCrea el contenido en base al siguiente texto"
     },
     {
       "titulo": "CURIOSITY GAP",
-      "prompt": "En copywriting se"
+      "prompt": "En copywriting se puede crear una brecha de curiosidad mediante el uso de titulares, líneas de asunto, textos de correos electrónicos, páginas de destino o cualquier otro tipo de contenido que tenga como objetivo atraer e involucrar al lector. Algunas de las formas de crear una brecha de curiosidad son: * Presentar algo nuevo o sorprendente que desafíe los conocimientos o expectativas existentes del lector. * Comenzar una historia, hacer una pausa en un momento culminante y retrasar la conclusión. * Retener información clave durante un período corto de tiempo (pero no demasiado, ya que puede frustrar al lector) Introducir una idea, acción o concepto y conectarlo con un resultado o tema inesperado. \n\nCrea un curiosity gap en base al siguiente texto:"
     },
     {
       "titulo": "EMPUJE/JALE",
-      "prompt": "Para llamar la atención"
+      "prompt": "Para llamar la atención de cualquier público. Necesitamos crear tensión y deseo. La tensión es la introducción de algunas consecuencias reales al encuentro social. Es la respuesta a una comprensión clara e inequívoca de que algo se ganará o se perderá. Es hacerle saber al objetivo que hay mucho en juego. La tensión indica consecuencias y por tanto importancia. Hay tres patrones de tensión, cada uno con un nivel creciente de intensidad. Estos son patrones de conversación que puede utilizar en cualquier momento de una presentación cuando sienta que la atención del objetivo disminuye. Patrón de empujar/tirar discreto y de baja intensidad. Ejemplo UNO: EMPUJE: 'Existe una posibilidad real de que no seamos adecuados el uno para el otro'. [Pausa. Deje que el empujón penetre. Debe ser auténtico.] PULL: “Pero claro, si esto funciona, nuestras fuerzas podrían combinarse para convertirse en algo grandioso”. Ejemplo DOS: EMPUJE: 'Como es normal al inicio de cualquier relación, en estos momentos hay un sentimiento de desconfianza y expectación por ambas partes. Y es posible que al final no seamos capaces de superarlo'. PULL: 'Pero claro, si esto funciona, nuestras fuerzas podrían combinarse para convertirse en algo grandioso'. \n\nCrea un empuje/jale en base al siguiente texto:"
     }
   ]
-

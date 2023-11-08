@@ -60,8 +60,12 @@
       "prompt": "Ofrece comentarios sobre el video, incluyendo lo que te gustó o no te gustó y cómo podría mejorarse."
     },
     {
-      "titulo": "TRADUCCIÓN",
-      "prompt": "Traduce el video a otro idioma."
+      "titulo": "TRADUCCIÓN AL ESPAÑOL",
+      "prompt": "Traduce este texto al español"
+    },
+    {
+      "titulo": "TRADUCCIÓN AL INGLES",
+      "prompt": "Traduce esta texto al ingles"
     },
     {
       "titulo": "CONTRAPUNTOS",
